@@ -1,3 +1,10 @@
+# DIO + BairesDev
+
+Mentoria DIO - Ferramentas de IA para aumentar sua produtividade
+
+[Youtube](https://www.youtube.com/watch?v=YJG8UOp80H4&ab_channel=DIO)
+
+
 # Analisador de Currículos
 
 Uma aplicação web que analisa currículos comparando-os com requisitos de vagas usando IA para fornecer análises detalhadas de compatibilidade e feedback.
